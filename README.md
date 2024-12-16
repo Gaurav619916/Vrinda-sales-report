@@ -21,3 +21,7 @@ Vrinda Store Data Analysis.xlsx
 8.Highest selling category.
 
 9.Percentage of total orders delivered.
+
+# dashboard
+![Dashboard](https://github.com/user-attachments/assets/dbe63042-7c58-4345-acb1-5c9d256cf46c)
+
