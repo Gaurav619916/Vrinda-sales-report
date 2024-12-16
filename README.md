@@ -22,6 +22,16 @@ Vrinda Store Data Analysis.xlsx
 
 9.Percentage of total orders delivered.
 
-# dashboard
+# Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/dbe63042-7c58-4345-acb1-5c9d256cf46c)
+# Project Insight
+-Women are more likely to buy compared to men (~65%)
+
+-Maharashtra, Karnataka and Uttar Pradesh are the top 3 States(~35%)
+
+-Adult age group(30-40 yrs) is max contributing(~50%)
+
+-Amazon, Flipkart, and Myntra channels are max contributing (~80% )
+
+
 
